@@ -1,0 +1,14 @@
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\bin\Debug\net8.0\hilos_game.exe
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\bin\Debug\net8.0\hilos_game.deps.json
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\bin\Debug\net8.0\hilos_game.runtimeconfig.json
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\bin\Debug\net8.0\hilos_game.dll
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\bin\Debug\net8.0\hilos_game.pdb
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\hilos_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\hilos_game.AssemblyInfoInputs.cache
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\hilos_game.AssemblyInfo.cs
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\hilos_game.csproj.CoreCompileInputs.cache
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\hilos_game.dll
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\refint\hilos_game.dll
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\hilos_game.pdb
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\hilos_game.genruntimeconfig.cache
+C:\Users\ruben\RiderProjects\hilos_game\hilos_game\obj\Debug\net8.0\ref\hilos_game.dll
