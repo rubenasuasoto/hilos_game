@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hilos_game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622ab87a5e85ab98a98c9d1b369a63231e04432c")]
 [assembly: System.Reflection.AssemblyProductAttribute("hilos_game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hilos_game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
